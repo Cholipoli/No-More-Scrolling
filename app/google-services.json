@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355815648142",
+    "project_id": "no-more-scrolling",
+    "storage_bucket": "no-more-scrolling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355815648142:android:c4c8a2190c02b2ce7ed2df",
+        "android_client_info": {
+          "package_name": "com.example.nomorescrolling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTddRAvRAP8tYkk0WcS8pzfBYqOjpA5oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
